@@ -1,0 +1,10 @@
+C:\Projects\Project1\MailLabelProgram\MailLabelProgram\bin\Debug\MailLabelProgram.exe.config
+C:\Projects\Project1\MailLabelProgram\MailLabelProgram\bin\Debug\MailLabelProgram.exe
+C:\Projects\Project1\MailLabelProgram\MailLabelProgram\bin\Debug\MailLabelProgram.pdb
+C:\Projects\Project1\MailLabelProgram\MailLabelProgram\obj\Debug\MailLabelProgram.csprojAssemblyReference.cache
+C:\Projects\Project1\MailLabelProgram\MailLabelProgram\obj\Debug\MailLabelProgram.Form1.resources
+C:\Projects\Project1\MailLabelProgram\MailLabelProgram\obj\Debug\MailLabelProgram.Properties.Resources.resources
+C:\Projects\Project1\MailLabelProgram\MailLabelProgram\obj\Debug\MailLabelProgram.csproj.GenerateResource.cache
+C:\Projects\Project1\MailLabelProgram\MailLabelProgram\obj\Debug\MailLabelProgram.csproj.CoreCompileInputs.cache
+C:\Projects\Project1\MailLabelProgram\MailLabelProgram\obj\Debug\MailLabelProgram.exe
+C:\Projects\Project1\MailLabelProgram\MailLabelProgram\obj\Debug\MailLabelProgram.pdb
